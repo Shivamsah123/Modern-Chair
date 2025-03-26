@@ -1,4 +1,6 @@
 🪑 Modern Chair
+
+
 📌 Description
 This project showcases a modern chair with a color-changing effect using HTML and CSS. The chair dynamically changes colors when hovered over or clicked, making it an interactive and visually appealing element for websites, e-commerce platforms, or design showcases.
 

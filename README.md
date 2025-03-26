@@ -11,7 +11,10 @@ This project showcases a modern chair with a color-changing effect using HTML an
 
 🏗️ Minimalist Design – Modern and aesthetic styling.
 
+
 ⚡ Responsive Layout – Adapts to different screen sizes.
+
+📌 Live Site URL:http://127.0.0.1:5500/Modern%20Chair/1.modern.html
 📬 Connect With Me
 LinkedIn -  https://www.linkedin.com/in/shivam-kumar-sah-39b44028a/  
 📌 Acknowledgments

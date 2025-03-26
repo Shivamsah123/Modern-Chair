@@ -18,6 +18,8 @@ This project showcases a modern chair with a color-changing effect using HTML an
 
 📬 Connect With Me
 LinkedIn -  https://www.linkedin.com/in/shivam-kumar-sah-39b44028a/  
+
+
 📌 Acknowledgments
 Course Instructor - Love Babbar-CodeHelp
 
@@ -25,6 +27,7 @@ Course Instructor - Love Babbar-CodeHelp
 Hover or click the color of chair to see the color transition!
 
 🛠️ Technologies Used
+
 HTML5 – Structure of the modern chair
 
 CSS3 – Styling and color transition effects
